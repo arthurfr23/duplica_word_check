@@ -12,6 +12,7 @@ Duplicate Word Check
 ## This repository uses a number of open source projects to work properly:
 
 [Python] - Python is a programming language that lets you work quickly and integrate systems more effectively.
+
 [python-docx] - Python-docx is a Python library for creating and updating Microsoft Word (.docx) files
 
 ## Installation
